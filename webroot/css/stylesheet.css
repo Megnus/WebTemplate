@@ -1,0 +1,11 @@
+@import url('menu.css');	
+@import url('carousel.css');
+@import url('text.css');
+
+body {
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
